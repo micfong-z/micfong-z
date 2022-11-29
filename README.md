@@ -11,6 +11,3 @@
 ## 🧐 Who am I
 
 I am **Micfong**.
-
-- Born in 2007 (15 years old as of Nov 2022)
-- Will enter university in 2025
