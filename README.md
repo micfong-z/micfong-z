@@ -4,3 +4,5 @@
 ## 🧐 Who am I
 
 I am **Micfong**.
+
+[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,apple,bash,c,cpp,css,dart,figma,flutter,git,html,js,latex,md,nextjs,obsidian,pr,pycharm,py,react,regex,rust,sqlite,svg,swift,tailwind,ts,vercel,vscode)](https://skillicons.dev)
